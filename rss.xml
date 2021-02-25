@@ -4,7 +4,7 @@
   <subtitle>HAX + 11ty = bliss</subtitle>
   <link href="https://deepdivetech.github.io/hax11ty/rss.xml" rel="self"/>
   <link href="https://deepdivetech.github.io/hax11ty"/>
-  <updated>2021-02-25T19:19:02.764+00:00</updated>
+  <updated>2021-02-25T19:23:13.325+00:00</updated>
   <id>https://deepdivetech.github.io/hax11ty</id>
   <author>
     <name>EdTechJoker</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>About</title>
     <link href="https://deepdivetech.github.io/hax11ty/content/1_about/"/>
-    <updated>2021-02-25T19:19:02.764+00:00</updated>
+    <updated>2021-02-25T19:23:13.325+00:00</updated>
     <id>https://deepdivetech.github.io/hax11ty/content/1_about/</id>
     <content type="html">&lt;p&gt;HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:
 &lt;ul&gt;
@@ -29,7 +29,7 @@
   <entry>
     <title>Installation</title>
     <link href="https://deepdivetech.github.io/hax11ty/content/2_install/"/>
-    <updated>2021-02-25T19:19:02.764+00:00</updated>
+    <updated>2021-02-25T19:23:13.325+00:00</updated>
     <id>https://deepdivetech.github.io/hax11ty/content/2_install/</id>
     <content type="html">&lt;code-sample copy-clipboard-button=&quot;&quot;&gt;
 &lt;template&gt;
@@ -46,7 +46,7 @@
   <entry>
     <title>Why HAX11ty</title>
     <link href="https://deepdivetech.github.io/hax11ty/content/3_why/"/>
-    <updated>2021-02-25T19:19:02.764+00:00</updated>
+    <updated>2021-02-25T19:23:13.325+00:00</updated>
     <id>https://deepdivetech.github.io/hax11ty/content/3_why/</id>
     <content type="html">&lt;p&gt;&lt;ul&gt;
     &lt;li&gt;Power of &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; for publishing static / high SEO&lt;/li&gt;
@@ -65,6 +65,25 @@
     &lt;li&gt;We do this so that if you put, for example, meme-maker into a page of content, hax11ty will generate the preload statements for that element from the CDN. This is done on a page by page level.&lt;/li&gt;
     &lt;li&gt;That&#39;s it. All other mettrics we can hit the same scores as any other app!&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://deepdivetech.github.io/hax11ty/content/Welcome World/"/>
+    <updated>2021-02-25T19:23:13.325+00:00</updated>
+    <id>https://deepdivetech.github.io/hax11ty/content/Welcome World/</id>
+    <content type="html">&lt;p&gt;Hello world,&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;I welcome you to my first blog post and I hope you get something out of it.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;Who Am I?&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;My name is Lee and I’m behind the mask of Deep Dive Tech. I am a senior (very sad, I’ll cry later though) at Pennsylvania State University. My major is Telecommunications (think of cell phones) and I have a minor in Information Science &amp; Technology. Not really sure what career path I would want to pursue after graduation. However, I am hoping to get into Networking, maybe pursue to be a Network Technician or go another route in Project Management. I’m sure I can maybe get a taste of both in one job farther down the road, but I will be grateful to whatever company decides to take a chance on me.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;My Current and Past Experiences…&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;I’ve always been into technology ever since I got my first computer at a young age. Something about technology and how it enhances a human life is very satisfying to me. The one piece of technology I like so much is smartphones. It is surely amazing seeing how far we’ve come with the evolution of a cellular device.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;My attraction to these life changing devices drove me to become a sales specialist for Verizon Wireless the summer of 2018. My experience through working for a company like Verizon really taught me a lot about phones (despite stressing out on hitting your monthly numbers for commission). It really solidified my interest in the tech world even more, but I want to dig DEEPER.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;Since then, I’ve experienced great opportunities such as being an Optics Development Engineer for a TV advertising company Ampersand based in New York, New York. Even though I will most likely not end up in the TV advertising industry, the experience of being an engineer for this company was such a great experience nonetheless.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;Currently, on top going to school at Penn State, I am studying for my Comp TIA Network+ certification. This is not an easy task, but with effective studying I will be able to know the basics in and out of networking such as having knowledge in routers, switches, protocols, etc. I am excited to see where life takes me and hope I begin my tech career in a good environment where I can grow as a tech professional, as well as being the best person I can be.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;So What’s Next?&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;There’s a lot of things I would consider I’m passionate about. But, I can’t say there’s one particular topic in tech specifically that I am extremely passionate about. If there’s one thing for certain with technology though it would have to be security is one of my biggest interests. One thing that gets to me the most with using the Internet is that it targets you for advertisements or a potential threat to access personal information. To debut my Deep Dive Tech youtube page, I will show what privacy extensions for Google Chrome is best to protect yourself. Enjoy!&lt;/p&gt;&lt;p&gt;
 &lt;/p&gt;</content>
   </entry>
 </feed>

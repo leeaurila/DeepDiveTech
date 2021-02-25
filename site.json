@@ -1,5 +1,5 @@
 {
-  "id": "#7905fd18-c47c-9c47-1561-4078a494a1af",
+  "id": "#01632130-7aa1-8d3d-1210-d3173fa0766d",
   "title": "HAX11TY doc site",
   "author": "EdTechJoker",
   "description": "HAX + 11ty = bliss",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "elmsln",
-      "created": 1614280766374,
-      "updated": 1614280766374,
+      "created": 1614281015593,
+      "updated": 1614281015593,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1614280743,
-        "updated": 1614280743,
+        "created": 1614280993,
+        "updated": 1614280993,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -73,17 +73,41 @@
       }
     },
     {
+      "id": "--content-2_install-md",
+      "indent": 0,
+      "location": "./pages/2_install.md",
+      "slug": "install",
+      "order": 1,
+      "title": "Installation",
+      "description": "Installation",
+      "parent": null,
+      "metadata": {
+        "created": 1614280993,
+        "updated": 1614280993,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Installation",
+        "slug": "install"
+      }
+    },
+    {
       "id": "--content-3_why-md",
       "indent": 0,
       "location": "./pages/3_why.md",
       "slug": "why",
-      "order": 1,
+      "order": 2,
       "title": "Why HAX11ty",
       "description": "Why HAX11ty",
       "parent": null,
       "metadata": {
-        "created": 1614280743,
-        "updated": 1614280743,
+        "created": 1614280993,
+        "updated": 1614280993,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -97,27 +121,25 @@
       }
     },
     {
-      "id": "--content-2_install-md",
+      "id": "--content-Welcome World-md",
       "indent": 0,
-      "location": "./pages/2_install.md",
-      "slug": "install",
-      "order": 2,
-      "title": "Installation",
-      "description": "Installation",
+      "location": "./pages/Welcome World.md",
+      "slug": "content/Welcome World/",
+      "order": 3,
+      "title": "Title",
+      "description": "Description",
       "parent": null,
       "metadata": {
-        "created": 1614280743,
-        "updated": 1614280743,
-        "readtime": 1,
+        "created": 1614280993,
+        "updated": 1614280993,
+        "readtime": 3,
         "contentDetails": {},
         "files": [],
         "haxcmsServiceWorker": true,
         "tags": [
           "content"
         ],
-        "layout": "content.liquid",
-        "title": "Installation",
-        "slug": "install"
+        "layout": "content.liquid"
       }
     }
   ]
